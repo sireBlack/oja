@@ -7,3 +7,5 @@ To use:
 2. cd into the folder
 
 3. run npm install
+
+4. read the doc file for the api documentation
