@@ -1,0 +1,7 @@
+****products***
+
+create new product
+localhost:3000/products
+method: post
+
+get product

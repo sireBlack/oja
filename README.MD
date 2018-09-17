@@ -8,4 +8,6 @@ To use:
 
 3. run npm install
 
-4. read the doc file for the api documentation
+4. read the api.txt file for the api documentation
+
+api runs on port 3000
